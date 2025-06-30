@@ -1,0 +1,90 @@
+==================================================================
+          RELATÓRIO DE SCAN DE REDE
+==================================================================
+Data e Hora do Scan: 30/06/2025 17:26:25
+Rede Alvo: 192.168.5.1/24
+
+------------------------------------------------------------------
+IP: 		192.168.5.2
+MAC Address: 	30:1f:48:63:c4:dc
+Portas Abertas: 53, 80, 443
+------------------------------------------------------------------
+IP: 		192.168.5.21
+MAC Address: 	40:ae:30:cf:a2:16
+Portas Abertas: 135, 139, 445
+------------------------------------------------------------------
+IP: 		192.168.5.13
+MAC Address: 	cc:27:46:60:60:42
+Portas Abertas: 853
+------------------------------------------------------------------
+IP: 		192.168.5.31
+MAC Address: 	8c:17:59:79:37:72
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.37
+MAC Address: 	f0:a7:31:8d:40:4b
+Portas Abertas: 135, 139, 445
+------------------------------------------------------------------
+IP: 		192.168.5.15
+MAC Address: 	48:a4:72:5d:dd:79
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.24
+MAC Address: 	24:2f:d0:da:a0:d1
+Portas Abertas: 135, 139, 445
+------------------------------------------------------------------
+IP: 		192.168.5.33
+MAC Address: 	d8:44:89:23:ad:4d
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.18
+MAC Address: 	c2:62:41:f1:f2:62
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.54
+MAC Address: 	ac:2b:6e:00:17:4d
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.29
+MAC Address: 	e6:10:fd:03:f6:ad
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.9
+MAC Address: 	bc:fd:0c:34:b9:85
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.48
+MAC Address: 	de:68:bf:c2:4a:b7
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.69
+MAC Address: 	94:5c:9a:e0:fe:22
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.34
+MAC Address: 	fc:ee:e6:0e:a3:1b
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.19
+MAC Address: 	ce:0b:9d:12:f4:ee
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.8
+MAC Address: 	bc:fd:0c:34:7e:e1
+Portas Abertas: 21, 554
+------------------------------------------------------------------
+IP: 		192.168.5.50
+MAC Address: 	8c:85:90:4c:b7:b9
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.5
+MAC Address: 	e0:bb:9e:79:06:f5
+Portas Abertas: 80, 443, 515, 631
+------------------------------------------------------------------
+IP: 		192.168.5.6
+MAC Address: 	20:fe:00:6f:33:bb
+Portas Abertas: Nenhuma encontrada (conforme scan).
+------------------------------------------------------------------
+IP: 		192.168.5.7
+MAC Address: 	cc:64:1a:89:f2:f3
+Portas Abertas: 21, 554
