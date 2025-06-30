@@ -1,6 +1,6 @@
 # Scanner de Rede Local com Scapy e Nmap 🕵️‍♂️
 
-![Banner do Projeto](https://i.imgur.com/rSCTgE2.png)
+![Banner do Projeto](/img_readme/cybersecurity.jpg)
 
 > ⚠️ **AVISO LEGAL: PROJETO PARA FINS EDUCACIONAIS** ⚠️  
 > Este projeto foi desenvolvido com **fins estritamente educacionais**. O objetivo é demonstrar a aplicação de programação de redes com Python, Scapy e Nmap em um ambiente controlado.  
@@ -26,9 +26,7 @@
 
 O projeto é construído com as seguintes ferramentas e bibliotecas:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Scapy](https://img.shields.io/badge/Scapy-003B6D?style=for-the-badge&logo=python&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-005A9C?style=for-the-badge&logo=nmap&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Scapy](https://img.shields.io/badge/Scapy-003B6D?style=for-the-badge&logo=python&logoColor=white)  ![Nmap](https://img.shields.io/badge/Nmap-005A9C?style=for-the-badge&logo=nmap&logoColor=white)
 
 ---
 
@@ -90,13 +88,12 @@ Após a execução, você verá uma saída detalhada no console e um novo arquiv
 [] [FASE 3/3] Gerando e salvando o relatório final...
 [] Relatório salvo com sucesso em: relatorios_scan\relatorio_2025-06-30_17-23-05.txt
 
-shell
-Copiar
-Editar
+
 
 ### Exemplo de Relatório
 
-================================================================== RELATÓRIO DE SCAN DE REDE
+================================================================== 
+RELATÓRIO DE SCAN DE REDE
 Data e Hora do Scan: 30/06/2025 17:23:05
 Rede Alvo: 192.168.5.1/24
 
